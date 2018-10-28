@@ -1,3 +1,3 @@
 # burger
 
-At the moment, October 23rd, I have no read me info yet. Please check back again in 1 week.
+I was unable to get the post working in the controller and the public js file. it kept coming back with a 404 error sent from the controller but I was unable to determine the cause of the issue. Since the id in the public js file was displaying the proper id to be sent to the db. I spent far too much time on this issue so I was unable to create a delete function which is one thing I would have liked to do as well. If you can find the error I would really appreciate it if you could let me know so I can fix it and finish the assignment! thank you!
